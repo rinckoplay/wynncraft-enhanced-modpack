@@ -1,2 +1,2 @@
-# wynncraft-enhanced-modpackl
+# Wynncraft enhanced modpack
 Wynncraft Modpack
